@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   plugins: [react(), tailwindcss()],
-  base: '/mission_restart_a3_assignment/',
-})
+  base: command === 'build' ? '/mission_restart_a3_assignment/' : '/',
+}))

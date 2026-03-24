@@ -13,10 +13,10 @@ export const router = createBrowserRouter([
     Component: Root,
     children: [
       {
-        index: true, //Home page
+        index: true, 
         Component: Home,
         loader: async () => {
-          const res = await fetch("/data.json");
+          const res = await fetch("./data.json"); 
           if (!res.ok) {
             throw new Response("Failed to fetch data", { status: res.status });
           }
@@ -27,7 +27,7 @@ export const router = createBrowserRouter([
         path: "apps",
         Component: Apps,
         loader: async () => {
-          const res = await fetch("/data.json");
+          const res = await fetch("./data.json");
           if (!res.ok) {
             throw new Response("Failed to fetch data", { status: res.status });
           }
@@ -38,7 +38,7 @@ export const router = createBrowserRouter([
         path: "installation",
         Component: Installation,
         loader: async () => {
-          const res = await fetch("/data.json");
+          const res = await fetch("./data.json");
           if (!res.ok) {
             throw new Response("Failed to fetch data", { status: res.status });
           }
@@ -49,7 +49,7 @@ export const router = createBrowserRouter([
         path: "app-details/:appId",
         Component: Details,
         loader: async ({ params }) => {
-          const res = await fetch("/data.json");
+          const res = await fetch("./data.json");
           if (!res.ok) {
             throw new Response("Failed to fetch data", { status: res.status });
           }
@@ -72,4 +72,6 @@ export const router = createBrowserRouter([
       },
     ],
   },
-]);
+], {
+  basename: "/mission_restart_a3_assignment",
+});
