@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "https://placehold.co/200x200/4F46E5/ffffff?text=DevSync",
+    "title": "DevSync: Professional Code Collaboration",
+    "companyName": "NexusSoft",
+    "description": "DevSync is a specialized platform for developers to manage their coding projects and team communications in real-time. It features built-in syntax highlighting, cloud-based repositories, and seamless integration with major version control systems.",
+    "size": 52, "reviews": 1450, "ratingAvg": 4.8, "downloads": 2000000,
+    "ratings": [{ "name": "1 star", "count": 20 }, { "name": "2 star", "count": 15 }, { "name": "3 star", "count": 85 }, { "name": "4 star", "count": 330 }, { "name": "5 star", "count": 1000 }]
+  },
+  {
+    "id": 2,
+    "image": "https://placehold.co/200x200/10B981/ffffff?text=EcoTrack",
+    "title": "EcoTrack: Carbon Footprint Tracker",
+    "companyName": "GreenEarth",
+    "description": "EcoTrack helps you transition to a sustainable lifestyle by monitoring your daily carbon footprint. The app calculates emissions from transport, diet, and energy usage.",
+    "size": 38, "reviews": 920, "ratingAvg": 4.6, "downloads": 850000,
+    "ratings": [{ "name": "1 star", "count": 10 }, { "name": "2 star", "count": 25 }, { "name": "3 star", "count": 95 }, { "name": "4 star", "count": 290 }, { "name": "5 star", "count": 500 }]
+  },
+  {
+    "id": 3,
+    "image": "https://placehold.co/200x200/F59E0B/ffffff?text=LingoFlow",
+    "title": "LingoFlow: Master Languages Naturally",
+    "companyName": "Polyglot Labs",
+    "description": "LingoFlow uses an immersive approach to help you learn over 40 languages. It focuses on real-world conversations using speech recognition technology.",
+    "size": 95, "reviews": 3100, "ratingAvg": 4.9, "downloads": 4200000,
+    "ratings": [{ "name": "1 star", "count": 40 }, { "name": "2 star", "count": 30 }, { "name": "3 star", "count": 150 }, { "name": "4 star", "count": 680 }, { "name": "5 star", "count": 2200 }]
+  },
+  {
+    "id": 4,
+    "image": "https://placehold.co/200x200/EF4444/ffffff?text=SafeDrive",
+    "title": "SafeDrive: Smart Navigation",
+    "companyName": "AutoGuard",
+    "description": "SafeDrive redefines your driving experience with AI-enhanced navigation and real-time safety alerts for road conditions and traffic.",
+    "size": 110, "reviews": 2150, "ratingAvg": 4.5, "downloads": 1200000,
+    "ratings": [{ "name": "1 star", "count": 55 }, { "name": "2 star", "count": 75 }, { "name": "3 star", "count": 220 }, { "name": "4 star", "count": 600 }, { "name": "5 star", "count": 1200 }]
+  },
+  {
+    "id": 5,
+    "image": "https://placehold.co/200x200/8B5CF6/ffffff?text=ZenZone",
+    "title": "ZenZone: Mental Wellness & Meditation",
+    "companyName": "Calm Minds",
+    "description": "ZenZone offers personalized meditation sessions, sleep sounds, and stress management tools to help you find peace in a busy world.",
+    "size": 45, "reviews": 850, "ratingAvg": 4.7, "downloads": 500000,
+    "ratings": [{ "name": "1 star", "count": 15 }, { "name": "2 star", "count": 20 }, { "name": "3 star", "count": 65 }, { "name": "4 star", "count": 250 }, { "name": "5 star", "count": 500 }]
+  },
+  {
+    "id": 6,
+    "image": "https://placehold.co/200x200/EC4899/ffffff?text=StyleMe",
+    "title": "StyleMe: AI Fashion Assistant",
+    "companyName": "TrendVibe",
+    "description": "Get daily outfit recommendations based on your wardrobe, the weather, and your personal style preferences.",
+    "size": 65, "reviews": 1200, "ratingAvg": 4.4, "downloads": 950000,
+    "ratings": [{ "name": "1 star", "count": 30 }, { "name": "2 star", "count": 50 }, { "name": "3 star", "count": 120 }, { "name": "4 star", "count": 400 }, { "name": "5 star", "count": 600 }]
+  },
+  {
+    "id": 7,
+    "image": "https://placehold.co/200x200/3B82F6/ffffff?text=CryptoPulse",
+    "title": "CryptoPulse: Real-time Market Insights",
+    "companyName": "BlockChain Tech",
+    "description": "Track your crypto portfolio, set price alerts, and read the latest blockchain news in one sleek interface.",
+    "size": 42, "reviews": 2800, "ratingAvg": 4.6, "downloads": 3000000,
+    "ratings": [{ "name": "1 star", "count": 50 }, { "name": "2 star", "count": 80 }, { "name": "3 star", "count": 270 }, { "name": "4 star", "count": 900 }, { "name": "5 star", "count": 1500 }]
+  },
+  {
+    "id": 8,
+    "image": "https://placehold.co/200x200/F97316/ffffff?text=ChefBot",
+    "title": "ChefBot: Smart Recipe Finder",
+    "companyName": "Foodie AI",
+    "description": "Input the ingredients you have at home and ChefBot will suggest delicious recipes you can cook right now.",
+    "size": 58, "reviews": 750, "ratingAvg": 4.3, "downloads": 600000,
+    "ratings": [{ "name": "1 star", "count": 25 }, { "name": "2 star", "count": 45 }, { "name": "3 star", "count": 130 }, { "name": "4 star", "count": 250 }, { "name": "5 star", "count": 300 }]
+  },
+  {
+    "id": 9,
+    "image": "https://placehold.co/200x200/06B6D4/ffffff?text=AquaLog",
+    "title": "AquaLog: Scuba & Marine Diary",
+    "companyName": "DeepBlue",
+    "description": "The ultimate companion for divers. Log your dives, track depth, and identify marine species using our AI camera.",
+    "size": 78, "reviews": 400, "ratingAvg": 4.8, "downloads": 150000,
+    "ratings": [{ "name": "1 star", "count": 5 }, { "name": "2 star", "count": 10 }, { "name": "3 star", "count": 35 }, { "name": "4 star", "count": 100 }, { "name": "5 star", "count": 250 }]
+  },
+  {
+    "id": 10,
+    "image": "https://placehold.co/200x200/6366F1/ffffff?text=TaskFlow",
+    "title": "TaskFlow: Agile Project Management",
+    "companyName": "Sprint Systems",
+    "description": "Organize your team's workflow with kanban boards, sprint planning, and automated reporting features.",
+    "size": 55, "reviews": 1900, "ratingAvg": 4.5, "downloads": 1100000,
+    "ratings": [{ "name": "1 star", "count": 40 }, { "name": "2 star", "count": 60 }, { "name": "3 star", "count": 200 }, { "name": "4 star", "count": 600 }, { "name": "5 star", "count": 1000 }]
+  },
+  {
+    "id": 11,
+    "image": "https://placehold.co/200x200/84CC16/ffffff?text=PetPal",
+    "title": "PetPal: Health & Training Guide",
+    "companyName": "Pawsitive Co",
+    "description": "Connect with vets online, track vaccinations, and follow professional training videos for your pets.",
+    "size": 62, "reviews": 600, "ratingAvg": 4.4, "downloads": 450000,
+    "ratings": [{ "name": "1 star", "count": 20 }, { "name": "2 star", "count": 40 }, { "name": "3 star", "count": 100 }, { "name": "4 star", "count": 140 }, { "name": "5 star", "count": 300 }]
+  },
+  {
+    "id": 12,
+    "image": "https://placehold.co/200x200/D946EF/ffffff?text=VibeCast",
+    "title": "VibeCast: Social Audio Streaming",
+    "companyName": "Sonic Media",
+    "description": "Join live audio rooms, host your own podcasts, and discover new music trends with a global community.",
+    "size": 88, "reviews": 2300, "ratingAvg": 4.2, "downloads": 5000000,
+    "ratings": [{ "name": "1 star", "count": 150 }, { "name": "2 star", "count": 250 }, { "name": "3 star", "count": 600 }, { "name": "4 star", "count": 500 }, { "name": "5 star", "count": 800 }]
+  },
+  {
+    "id": 13,
+    "image": "https://placehold.co/200x200/14B8A6/ffffff?text=RentEase",
+    "title": "RentEase: Apartment & Room Finder",
+    "companyName": "Urban Stay",
+    "description": "Find your next home with verified listings, virtual 3D tours, and direct chat with property owners.",
+    "size": 47, "reviews": 1100, "ratingAvg": 4.3, "downloads": 800000,
+    "ratings": [{ "name": "1 star", "count": 60 }, { "name": "2 star", "count": 90 }, { "name": "3 star", "count": 200 }, { "name": "4 star", "count": 350 }, { "name": "5 star", "count": 400 }]
+  },
+  {
+    "id": 14,
+    "image": "https://placehold.co/200x200/FACC15/000000?text=SkillUp",
+    "title": "SkillUp: Micro-learning Platform",
+    "companyName": "Bright Future",
+    "description": "Learn new skills in just 5 minutes a day with bite-sized video lessons and interactive quizzes.",
+    "size": 35, "reviews": 1500, "ratingAvg": 4.7, "downloads": 2500000,
+    "ratings": [{ "name": "1 star", "count": 30 }, { "name": "2 star", "count": 20 }, { "name": "3 star", "count": 100 }, { "name": "4 star", "count": 450 }, { "name": "5 star", "count": 900 }]
+  },
+  {
+    "id": 15,
+    "image": "https://placehold.co/200x200/0F172A/ffffff?text=NightSky",
+    "title": "NightSky: Stargazing Guide",
+    "companyName": "Astro Labs",
+    "description": "Point your phone at the sky to identify stars, constellations, and planets in real-time using AR technology.",
+    "size": 130, "reviews": 540, "ratingAvg": 4.9, "downloads": 200000,
+    "ratings": [{ "name": "1 star", "count": 5 }, { "name": "2 star", "count": 5 }, { "name": "3 star", "count": 20 }, { "name": "4 star", "count": 110 }, { "name": "5 star", "count": 400 }]
+  },
+  {
+    "id": 16,
+    "image": "https://placehold.co/200x200/94A3B8/ffffff?text=FocusMax",
+    "title": "FocusMax: Pomodoro & Productivity",
+    "companyName": "DeepWork Inc",
+    "description": "Master your time with customizable Pomodoro timers, website blockers, and detailed productivity analytics.",
+    "size": 28, "reviews": 890, "ratingAvg": 4.6, "downloads": 700000,
+    "ratings": [{ "name": "1 star", "count": 15 }, { "name": "2 star", "count": 35 }, { "name": "3 star", "count": 90 }, { "name": "4 star", "count": 300 }, { "name": "5 star", "count": 450 }]
+  },
+  {
+    "id": 17,
+    "image": "https://placehold.co/200x200/64748B/ffffff?text=BudgetPro",
+    "title": "BudgetPro: Personal Finance Manager",
+    "companyName": "Smart Wealth",
+    "description": "Automate your savings, track expenses across all accounts, and get investment advice based on your goals.",
+    "size": 41, "reviews": 3200, "ratingAvg": 4.5, "downloads": 1800000,
+    "ratings": [{ "name": "1 star", "count": 80 }, { "name": "2 star", "count": 120 }, { "name": "3 star", "count": 400 }, { "name": "4 star", "count": 1000 }, { "name": "5 star", "count": 1600 }]
+  },
+  {
+    "id": 18,
+    "image": "https://placehold.co/200x200/FB7185/ffffff?text=FitQuest",
+    "title": "FitQuest: RPG Fitness Game",
+    "companyName": "Active Games",
+    "description": "Turn your workouts into an adventure. Level up your character by completing real-world exercises and quests.",
+    "size": 150, "reviews": 1100, "ratingAvg": 4.7, "downloads": 900000,
+    "ratings": [{ "name": "1 star", "count": 25 }, { "name": "2 star", "count": 35 }, { "name": "3 star", "count": 90 }, { "name": "4 star", "count": 250 }, { "name": "5 star", "count": 700 }]
+  },
+  {
+    "id": 19,
+    "image": "https://placehold.co/200x200/2DD4BF/ffffff?text=NewsGrid",
+    "title": "NewsGrid: Unbiased Daily News",
+    "companyName": "TruthMedia",
+    "description": "Get news from multiple perspectives. Our AI identifies bias and summarizes stories from diverse sources globally.",
+    "size": 32, "reviews": 670, "ratingAvg": 4.1, "downloads": 400000,
+    "ratings": [{ "name": "1 star", "count": 40 }, { "name": "2 star", "count": 60 }, { "name": "3 star", "count": 120 }, { "name": "4 star", "count": 250 }, { "name": "5 star", "count": 200 }]
+  },
+  {
+    "id": 20,
+    "image": "https://placehold.co/200x200/A855F7/ffffff?text=ArtVibe",
+    "title": "ArtVibe: Digital Canvas & Community",
+    "companyName": "Creative Hub",
+    "description": "A powerful drawing tool for digital artists. Share your process videos and participate in global art challenges.",
+    "size": 95, "reviews": 2100, "ratingAvg": 4.8, "downloads": 3500000,
+    "ratings": [{ "name": "1 star", "count": 30 }, { "name": "2 star", "count": 40 }, { "name": "3 star", "count": 130 }, { "name": "4 star", "count": 400 }, { "name": "5 star", "count": 1500 }]
+  }
+]
